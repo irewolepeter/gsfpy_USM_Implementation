@@ -1,3 +1,8 @@
+# gsfpy_USM_Implementation
+This repository is originally created by UKHO to wrap the GSF C-library written and maintained by Leidos. This fork of the repository is intended to be further developed to suite the purposes of hydrographic research at the University of Southern Mississippi.
+
+- Please see below for the original readme from UKHO
+
 # gsfpy - Generic Sensor Format for Python
 
 ![Python Package](https://github.com/UKHO/gsfpy/workflows/Python%20Package/badge.svg) ![PyPI - Downloads](https://img.shields.io/pypi/dm/gsfpy)
